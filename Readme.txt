@@ -29,5 +29,3 @@ TDD - fews layer tests created (but imcompleted)
     - Tests for network;
     - some layer (VM, repository, usecase).
     
-    
-Extra: I begun create flutter app using bloc architecture, similar iOS MVVM, but i can't do great points, but i will send the project too'
