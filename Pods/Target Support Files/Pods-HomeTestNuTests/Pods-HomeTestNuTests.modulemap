@@ -1,0 +1,6 @@
+framework module Pods_HomeTestNuTests {
+  umbrella header "Pods-HomeTestNuTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
